@@ -1,0 +1,23 @@
+{
+  "name": "card-game-war",
+  "version": "1.0.0",
+  "description": "api-teamwork",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "card-game-war"
+  },
+  "keywords": [
+    "card",
+    "api",
+    "game"
+  ],
+  "author": "robert",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^14.3.2"
+  }
+}
