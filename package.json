@@ -19,5 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^14.3.2"
-  }
+  },
+  "type": "module"
+
 }

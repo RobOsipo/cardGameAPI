@@ -1,8 +1,11 @@
 
-require('dotenv').config() 
+// const dotenv = require('dotenv').config() 
+// import dotenv from "dotenv"
+// import {SHUFFLE} from "./node_modules/dotenv/.gitignore/api.env"
+// import {DRAW_TWO_CARDS} from "./node_modules/dotenv/.gitignore/api.env"
 
-import {SHUFFLE} from "./node_modules/dotenv/.gitignore/api.env"
-import {DRAW_TWO_CARDS} from "./node_modules/dotenv/.gitignore/api.env"
+// dotenv.config()
+// console.log(process.env)
 
 
 let deckId
